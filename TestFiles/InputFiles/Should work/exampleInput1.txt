@@ -1,0 +1,18 @@
+# Basic input script with valid input 
+busCapacity 12
+boardingTime 10
+requestRate 30.0
+pickupInterval 30.0
+maxDelay 15
+noBuses 10
+noStops 6
+# Note that the distances in the service map below may be separated by one or multiple spaces.
+# Your parser should work with any number of white spaces and tabs in between keywords/values.
+map
+ 0  3 -1 -1 -1  4 
+ 3  0  5 -1 -1 -1
+-1 -1  0  2 -1 -1
+-1 -1 -1  0  2  2
+-1  1 -1 -1  0 -1
+ 4 -1 -1  2  4  0
+stopTime 24
