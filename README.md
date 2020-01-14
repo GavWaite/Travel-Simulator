@@ -1,6 +1,6 @@
 # README
 
-This repo contains my implementation of a minibus travel simulator produced for the CSLP (Computer Science Large Practical) course in the third year of my undergraduate degree. I have uploaded the project as submitted but have done some work (as of Jan 2020) to ensure it still works correctly and tidied it up.
+This repo contains my implementation of a minibus travel simulator produced for the CSLP (Computer Science Large Practical) course in the third year of my undergraduate degree (December 2015). I received the top grade of A1 for this course. I have uploaded the project as submitted but have done some work (as of Jan 2020) to ensure it still works correctly and tidied it up.
 
 # Original README below
 
