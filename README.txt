@@ -1,12 +1,15 @@
+# README
+
+This repo contains my implementation of a minibus travel simulator produced for the CSLP (Computer Science Large Practical) course in the third year of my undergraduate degree. I have uploaded the project as submitted but have done some work (as of Jan 2020) to ensure it still works correctly and tidied it up.
+
+# Original README below
+
 Computer Science Large Practical
 The University of Edinburgh
 Gavin Waite
-s1208506
 December 2015
 
-— README —
-
--———————————Contents———————————
+———————————Contents———————————
 1 - Running
 2 - Development Platform
 3 - Unfinished Elements
