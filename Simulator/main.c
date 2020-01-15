@@ -26,7 +26,7 @@
 // All times are in the software are in seconds
 // But some inputs are in other formats so must be converted in the parser
 
-#define DEBUG 1
+#define DEBUG 0
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ VARIABLE DECLARATIONS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
