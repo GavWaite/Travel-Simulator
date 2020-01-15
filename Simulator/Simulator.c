@@ -8,7 +8,7 @@
 
 #include "Simulator.h"
 
-#define DEBUG 0
+#define DEBUG 1
 
 //<><><><><><><><><><><><><><><><><><><><><><> RUN A SIMULATION <><><><><><><><><><><><><><><><><><><><><><><><><><><><>//
 // The main simulation loop which increments with 1 second granularity
@@ -18,6 +18,9 @@ void runASimulation(){
     initialiseSimulation();
     
     // Bring variables into scope
+    shortestLengthFromTo;
+    nextHopFromTo;
+    passengersMoving;
 
     
 #if TESTS

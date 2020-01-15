@@ -12,8 +12,8 @@
 #include <stdbool.h>
 
 // Hardwired flags to activate different output console information
-#define ERROR 0     // For detailed ERROR messages and consistency checking - total ERRORs reported at end
-#define TRACKING 0  // To analyse the state of the simulator through the algorithm
+#define ERROR 1     // For detailed ERROR messages and consistency checking - total ERRORs reported at end
+#define TRACKING 1  // To analyse the state of the simulator through the algorithm
 #define TESTS 0     // To run and display the tests, intital conditions and parsed input
 #define ANALYSIS 0  // The simulations are run 20 times and the averages computed and output
 
